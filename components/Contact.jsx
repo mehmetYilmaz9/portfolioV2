@@ -12,8 +12,8 @@ const Contact = () => {
             <div className="container flex flex-col-reverse items-center justify-center mx-auto space-y-2  md:flex-row ">
             <div className="flex  items-center justify-center md:w-1/2"  >
                     <div className="text-4xl py-4">
-                        <div>
-                            <h1 className="py-4 font-sans">- Say hello to my little friend -</h1> 
+                        <div className="flex items-center">
+                            <h1 className="py-4 font-sans"> Say hello to my little friend </h1> 
                         </div>
                         <div>
                         
