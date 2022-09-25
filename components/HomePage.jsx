@@ -95,10 +95,10 @@ const HomePage = () => {
               
               <div className="flex justify-center  items-center h-64 ">
                 <div className="">
-                  <h1 className="text-4xl	py-2 flex justify-center font-serif font-semibold">
+                  <h1 className="text-2xl py-2 flex justify-center font-serif font-semibold">
                     Funny Web3 Developer 
                   </h1>
-                  <h2 className="text-3xl italic flex justify-center font-serif font-medium">Hello There, I&lsquo;m Mehmet</h2>
+                  <h2 className="text-2xl italic flex justify-center font-serif font-medium">Hello There, I&lsquo;m Mehmet</h2>
 
                   <div className="my-3">
                     <span className=" flex justify-center font-extralight	text-lg   tracking-wide ">
