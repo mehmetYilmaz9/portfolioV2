@@ -84,7 +84,7 @@ export async function getStaticProps() {
     {
       user(login: "mehmetYilmaz9") {
         repositories(
-          last: 14
+          last: 12
           isFork: false
           isLocked: false
           privacy: PUBLIC
