@@ -26,7 +26,7 @@ const AboutMe = () => {
           <div className="m-2 text-left">
           <h1>💻 - Language & framework : </h1>   
             <p className="m-2">
-            + Front-End : HTML || CSS || Tailwind || Bulma || Javascript || React <br />
+            + Front-End : HTML || CSS || Tailwind || Bulma || Javascript || React || NextJS <br />
             + Back-End :  NodeJS || Typescript || Express || Strapi || MongoDB || Jamstack || Firebase ;<br />
             + Dapps : Solidity || Rust || Metamask || NFT mining + Marketplace || Hardhat || Alchemy || Infura || Moralis ;
             </p> 
