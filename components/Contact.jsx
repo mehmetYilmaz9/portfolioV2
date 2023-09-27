@@ -12,11 +12,8 @@ const Contact = () => {
             <div className="container flex flex-col-reverse items-center justify-center mx-auto space-y-2  md:flex-row ">
             <div className="flex  items-center justify-center md:w-1/2"  >
                     <div className="text-4xl py-4">
-                        <div className="flex items-center">
-                            <h1 className="py-4 font-sans"> Say hello to my little friend </h1> 
-                        </div>
-                        <div>
                         
+                        <div>
                             <span className="text-sm flex justify-center font-extralight tracking-wide ">
                                 <a href="https://github.com/mehmetYilmaz9" alt="github" rel="noopener noreferrer" target="_blank"> <BsGithub  className="h-8 w-8 mx-2  text-gray-800 dark:text-white "  /></a> |
                                 <a href="mailto:mehmet.web.y@gmail.com"> <FiMail className="h-8 w-8 mx-2  text-gray-800 dark:text-white" /></a> |               
